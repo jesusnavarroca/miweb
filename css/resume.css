@@ -32,6 +32,7 @@ h6 {
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
+  font-family: 'roboto';
 }
 
 h2 {
@@ -82,6 +83,7 @@ p.lead {
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
+
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
@@ -160,15 +162,16 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #077eff !important;
 }
 
+
 .text-primary {
-  color: #BD5D38 !important;
+  color: #077eff !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #077eff;
 }
 
 a:hover, a:focus, a:active {
